@@ -8,6 +8,7 @@
 require 'faker'
 require 'json'
 require 'open-uri'
+Movie.destroy_all
 url = 'http://tmdb.lewagon.com/movie/top_rated'
 movie_serialised = URI.open(url).read
 movie = JSON.parse(movie_serialised)
