@@ -6,5 +6,7 @@ Rails.application.routes.draw do
     # nested because bookmarks belong to a list, you cant create bookmarks without it belonging to a list
     resources :bookmarks, only: %i[new create]
   end
+
+  root to: 'lists#index'
   # you can destroy ambivilantly because you want to destroy a bookmark without affecting a list
 end
