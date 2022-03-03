@@ -22,3 +22,19 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+<h1>To Do List:</h1>
+<ol>
+  <li>
+    Make a front end design scheme, I'm thinking a mango-orange/yellow
+  </li>
+  <li>
+    Add users and the ability to delete bookmarks
+  </li>
+  <li>
+    Add a list of your movies
+  </li>
+  <li>
+    Add footer and header
+  </li>
+</ol>
