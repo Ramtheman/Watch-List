@@ -1,8 +1,17 @@
 // Specific CSS for your home-page
 body {
   font-family: 'Times New Roman', Times, serif;
+  background-color: #FFFFF7;
+  width: 100vw;
+  height: 100vh;
 }
 
 h1 {
   font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+  background-color: orange;
+  justify-content: right;
+  bottom: 0;
 }
