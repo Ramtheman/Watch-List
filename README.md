@@ -26,6 +26,9 @@ Things you may want to cover:
 <h1>To Do List:</h1>
 <ol>
   <li>
+    Fix API call on the backend
+  </li>
+  <li>
     Make a front end design scheme, I'm thinking a mango-orange/yellow
   </li>
   <li>
